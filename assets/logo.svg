@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Maryland Stump Removal Pros logo">
+  <circle cx="24" cy="24" r="23" fill="#2f6b3c"/>
+  <!-- tree rings stump (top view) -->
+  <circle cx="24" cy="25" r="13" fill="#7a5638"/>
+  <circle cx="24" cy="25" r="13" fill="none" stroke="#4a3526" stroke-width="1.5"/>
+  <circle cx="24" cy="25" r="9.5" fill="none" stroke="#5c4129" stroke-width="1.4"/>
+  <circle cx="24" cy="25" r="6" fill="none" stroke="#5c4129" stroke-width="1.4"/>
+  <circle cx="24" cy="25" r="2.6" fill="#5c4129"/>
+  <!-- grind chips -->
+  <path d="M9 25h6M33 25h6" stroke="#e8741e" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M37 13l3-3M11 13l-3-3" stroke="#e8741e" stroke-width="2.2" stroke-linecap="round"/>
+</svg>
