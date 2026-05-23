@@ -1,5 +1,9 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/stump-removal", "destination": "/stump-grinding", "permanent": true },
+    { "source": "/stump-removal.html", "destination": "/stump-grinding", "permanent": true }
+  ]
 }
