@@ -3,6 +3,12 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "www.marylandstumpremovalpros.com" }],
+      "destination": "https://marylandstumpremovalpros.com/:path*",
+      "permanent": true
+    },
     { "source": "/stump-removal", "destination": "/stump-grinding", "permanent": true },
     { "source": "/stump-removal.html", "destination": "/stump-grinding", "permanent": true }
   ]
