@@ -13,4 +13,4 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://marylandstumpremovalpros.com/sitemap.xml
+Sitemap: https://www.marylandstumpremovalpros.com/sitemap.xml
